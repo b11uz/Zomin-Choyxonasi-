@@ -1,0 +1,15 @@
+{
+  "name": "Zomin Choyxonasi",
+  "short_name": "ZominChoy",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0e3b2e",
+  "theme_color": "#0e3b2e",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
